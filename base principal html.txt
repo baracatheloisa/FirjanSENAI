@@ -1,0 +1,22 @@
+<!DOCTYPE html> <!--Indica que é um HTML5-->
+<hmtl> <!---Inicio do código html-->
+
+    <head> <!--não exibe no site-->
+
+        <title> <!--titulo do site-->
+            FIRJAN SENAI
+        </title>
+
+    </head>
+
+         <body> <!--estrutura do site(parte visível)-->
+            <!--cabeçalho-->
+                <header> </header>
+                <!--conteúdo-->
+                <section> </section>
+                <!--rodapé-->
+                <footer> </footer>
+          </body>
+
+
+
